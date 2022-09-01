@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.tuyo</groupId>
-    <artifactId>migrationflywayspring</artifactId>
+    <artifactId>springswagger</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>migrationflywayspring</name>
+    <name>springswagger</name>
     <description>Projeto Migration With Flyway and Spring</description>
     <properties>
         <java.version>11</java.version>
